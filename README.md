@@ -1,4 +1,4 @@
-# test-repo
+# 👇test-repo
 
 testing-purpose
 
@@ -6,14 +6,13 @@ testing-purpose
 - This is example for merge conflict.
 - Thanks for reading, i hope you doing well.
 
-
-## Heading Markdown: 
+## 💡Heading Markdown: 
 
 # Heading 1
 ## Heading 2
 ### Heading 3
 
-# Text Markdown:
+# ✒️Text Markdown:
 
 The **Bold** text
 This is *italic* text
@@ -22,21 +21,21 @@ This is *italic* text
 
 This is my new idea
 
-# Link
+# 🔗Link
 
 This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
 
-# image
+# 👿image
 
 ![my-image](https://cdn.hashnode.com/res/hashnode/image/upload/v1673796722900/nvrPgmCT8.jpg?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp)
 
-# lists
+# 📃lists
 
 - item 1
 - item 2
 - item 3
 
-# checklist
+# ✅checklist
 
 - [X] item 1
 - [x] item 2
@@ -53,7 +52,7 @@ This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
   | :--- | :---: | ---: |
   | row 1 col 1 | row 1 col 2 | row 1 col 3 |
   
-  # Code Markdown
+  # 🧑‍💻Code Markdown
   
   this is inline code `name = biswajit`
   
@@ -72,7 +71,7 @@ This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
   + const last name = 'BM'
   ```
   
-  # Quote
+  # 💭Quote
   
   > I think this is helpfull
   
@@ -86,7 +85,7 @@ This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
  
  Cooment is hidden
  
- # Collapsable Content
+ # 🛂Collapsable Content
  
  <details>
    <summary>Click to Expand</summary>
@@ -94,7 +93,7 @@ This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
    
    </details>
    
-# Widgets
+# 💥Widgets
    
    <img src = "https://github-readme-stats.vercel.app/api?username=Biswajit-Mohapatra2&show_icons=true&&theme=tokyonight"/>
    
