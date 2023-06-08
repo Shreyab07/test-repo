@@ -1,6 +1,6 @@
 # 👇test-repo
 
-testing-purpose
+this is for testing-purpose
 
 - BiswaLocal repo!
 - This is example for merge conflict.
