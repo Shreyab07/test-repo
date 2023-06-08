@@ -19,7 +19,7 @@ This is *italic* text
 
 ~~This is my first idea~~
 
-This is my new idea
+This is my new idea1
 
 # 🔗Link
 
