@@ -3,7 +3,7 @@
 testing-purpose
 
 - BiswaLocal repo!
-- This is example for merge conflict.
+- This is example for merge conflict for test.
 - Thanks for reading, i hope you doing well.
 
 ## 💡Heading Markdown: 
@@ -88,7 +88,7 @@ This is a my [blog](https://biswajitblogs.hashnode.dev/) website.
  # 🛂Collapsable Content
  
  <details>
-   <summary>Click to Expand</summary>
+   <summary>Click here to Expand</summary>
    this is the content for testing...
    
    </details>
